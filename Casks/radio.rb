@@ -8,6 +8,9 @@ cask "radio" do
   homepage "https://github.com/pom11/Radio"
 
   depends_on macos: ">= :sonoma"
+  depends_on formula: "ffmpeg"
+  depends_on formula: "yt-dlp"
+  depends_on formula: "streamlink"
 
   app "Radio.app"
 
