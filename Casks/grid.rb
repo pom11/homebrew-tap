@@ -1,6 +1,6 @@
 cask "grid" do
-  version "1.0.7"
-  sha256 "3418a8192404bb91d54772647e5922ed156667e9bcc3128033ba7e9c55ad4ec2"
+  version "1.0.8"
+  sha256 "ce8974fa98cda75c0e0fd2151cedef533696565786be5547589c61b371c4fe0f"
 
   url "https://github.com/pom11/Grid/releases/download/v#{version}/Grid.dmg"
   name "Grid"
