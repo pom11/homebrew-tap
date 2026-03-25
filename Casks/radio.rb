@@ -1,6 +1,6 @@
 cask "radio" do
-  version "4.4.8"
-  sha256 "9a6a2a6de0e9388efa8c03951e23f740a135187d8575c948a069357ae8b062a9"
+  version "4.4.9"
+  sha256 "6b57d865b6a695b0f55b1483830bc396aecc5dd799d1bee415e8b3ffbeea5c88"
 
   url "https://github.com/pom11/Radio/releases/download/v#{version}/Radio.dmg"
   name "Radio"
