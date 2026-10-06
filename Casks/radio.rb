@@ -1,10 +1,10 @@
 cask "radio" do
-  version "4.5.5"
-  sha256 "4505698e3b0f8fc42cd2c8fee650cd4d93b3d03c92a5b8fb0495860bf1f7dd2b"
+  version "4.5.6"
+  sha256 "70ca77ad0c4b81e7a3f31a90f92fb639c1aa4f7024be93475f8a377d1b07d429"
 
   url "https://github.com/pom11/Radio/releases/download/v#{version}/Radio.dmg"
   name "Radio"
-  desc "Lightweight macOS menu bar app for internet radio and live streams"
+  desc "Lightweight menu bar app for internet radio and live streams"
   homepage "https://github.com/pom11/Radio"
 
   depends_on formula: "ffmpeg"
